@@ -10,6 +10,6 @@ I'm David...
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=davidkharbin&theme=github_dark&show_icons=true&count_private=true&custom_title=My+GitHub+Stats)
 
 <!-- LANGUAGES -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidkharbin&theme=github_dark&langs_count=10&exclude_repo=seahorse-safe&layout=compact&card_width=350)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidkharbin&theme=github_dark&langs_count=10&exclude_repo=seahorse-safe&layout=compact&card_width=445)
 
 
