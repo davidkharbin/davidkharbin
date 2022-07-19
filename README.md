@@ -1,13 +1,12 @@
 # Hi 👋
-My
 
-Programmer, Web Developer, IT professional, Pilot
--------------------------------------------------
+I'm David...
 
-* 🌍  I'm based in Denver, Colorado
+- 🌍  I'm a Software Engineer based in Denver, Colorado
+- ✉️  You can contact me at [czaw601@gmail.com](mailto:czaw601@gmail.com)
+- 🤝  I'm open to collaborating
 
-* ✉️  You can contact me at [czaw601@gmail.com](mailto:czaw601@gmail.com)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=davidkharbin&theme=github_dark&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidkharbin&theme=github_dark&langs_count=10&exclude_repo=seahorse-safe&layout=compact)
 
-* 🧠  I'm learning ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) and ![GO](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-* 🤝  I'm open to collaborating on almost anything
