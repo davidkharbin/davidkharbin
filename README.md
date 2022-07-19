@@ -5,10 +5,13 @@ I'm David...
 - 🌍  I'm a Software Engineer based in Denver, Colorado
 - ✉️  You can contact me at [czaw601@gmail.com](mailto:czaw601@gmail.com)
 - 🤝  I'm open to collaborating
+##
+##
+### 🔥 GitHub Stats:
 
 <!-- STATS -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=davidkharbin&theme=github_dark&show_icons=true&count_private=true&custom_title=My+GitHub+Stats&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=davidkharbin&theme=github_dark&show_icons=true&count_private=true&custom_title=&hide_border=true" />
 </a>
 
 <!-- STREAK -->
@@ -20,7 +23,11 @@ I'm David...
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidkharbin&theme=github_dark&langs_count=10&exclude_repo=seahorse-safe&card_width=495&hide_border=true" />
 </a>
-### :hammer_and_wrench: Languages and Tools :
+
+##
+##
+
+### 🛠️ Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
