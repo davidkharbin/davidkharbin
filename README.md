@@ -1,6 +1,6 @@
-- 🌍  I'm a Software Engineer based in Denver, Colorado
+- 🌍 Software Engineer based in Denver, Colorado
 - ✉️  You can contact me at [czaw601@gmail.com](mailto:czaw601@gmail.com)
-- 🤝  I'm open to collaborating
+- 🤝 I'm open to collaborating
 - ✈️  Recreational pilot
 
 ##
