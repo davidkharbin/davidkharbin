@@ -1,16 +1,16 @@
 - 🌍 Software Engineer based in Denver, Colorado
 - ✉️  You can contact me at [czaw601@gmail.com](mailto:czaw601@gmail.com)
 - 🤝 I'm open to collaborating
-- ✈️  Recreational pilot
+- ✈️ Recreational pilot
 
 ##
 
-### 🔥 GitHub Stats:
+<!-- ### 🔥 GitHub Stats: -->
 
 <!-- STATS -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=davidkharbin&theme=github_dark&show_icons=true&count_private=true&custom_title=&hide_border=true" />
-</a>
+</a> -->
 
 <!-- STREAK -->
 <a href="https://git.io/streak-stats">
